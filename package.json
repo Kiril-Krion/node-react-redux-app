@@ -13,6 +13,7 @@
   "author": "Kirill",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "concurrently": "^7.6.0",
     "cookie-session": "^2.0.0",
     "express": "^4.18.2",
@@ -23,6 +24,7 @@
     "passport-google-oauth20": "^2.0.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^5.3.4",
-    "redux": "^4.2.1"
+    "redux": "^4.2.1",
+    "stripe": "^11.12.0"
   }
 }
