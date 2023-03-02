@@ -25,6 +25,7 @@
     "react-redux": "^8.0.5",
     "react-router-dom": "^5.3.4",
     "redux": "^4.2.1",
+    "sendgrid": "^5.2.3",
     "stripe": "^11.12.0"
   }
 }
